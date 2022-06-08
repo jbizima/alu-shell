@@ -1,1 +1,1 @@
-Task 0. Hello World is a script that prints “Hello, World”, followed by a new line to the standard output
+Task 2. hellofile is a script that display the content of the /etc/passwd file.
